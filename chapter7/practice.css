@@ -1,0 +1,16 @@
+.parent{
+    position:relative;
+    background-color: gray;
+    padding:20px;
+    margin:50px;
+}
+
+#absolute{
+    position:absolute;
+    top:10px;
+    left:100px;
+    margin:10px;
+    width:100%;
+    background-color:orange;
+    color:white;
+}

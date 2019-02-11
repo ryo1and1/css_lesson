@@ -1,0 +1,38 @@
+.blue{
+    background-color: blue;
+
+    width: 200px;
+
+    height: 250px;
+
+    margin: 0px;
+    float: left;
+}
+
+ 
+
+.yellow{
+
+    background-color: yellow;
+
+    width: 150px;
+
+    height: 100px;
+
+    margin: 0px;
+    float: left;
+}
+
+ 
+
+.red{
+
+    background-color: red;
+
+    width: 500px;
+
+    height: 80px;
+
+    margin: 0px;
+    float: left;
+}
